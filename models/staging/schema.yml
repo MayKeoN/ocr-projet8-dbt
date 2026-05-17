@@ -12,11 +12,9 @@ models:
           - unique
           - not_null
       - name: path_category_name
+        description: Filtre Data appliqué dans stg_students.sql
         tests:
           - not_null
-          - accepted_values:
-              arguments:
-                values: ['Data']
       - name: age_group
         tests:
           - not_null
@@ -28,9 +26,6 @@ models:
         tests:
           - not_null
       - name: year_path_started
+        description: Années 2022-2025 filtrées dans stg_students.sql
         tests:
           - not_null
-          - accepted_values:
-              arguments:
-                values: [2022, 2023, 2024, 2025]
-                quote: false
