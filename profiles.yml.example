@@ -1,0 +1,14 @@
+# Copy to ~/.dbt/profiles.yml and fill in secrets (never commit profiles.yml)
+projet8_ocr:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: YOUR_ACCOUNT
+      user: YOUR_USER
+      password: YOUR_PASSWORD
+      role: accountadmin
+      database: analytics
+      warehouse: compute_wh
+      schema: analytics_prod
+      threads: 4

@@ -1,0 +1,48 @@
+name: projet8_ocr
+version: 1.0.0
+config-version: 2
+profile: projet8_ocr
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: target
+clean-targets:
+  - target
+  - dbt_packages
+
+models:
+  projet8_ocr:
+    staging:
+      +materialized: view
+      +schema: staging
+      +tags: ["staging"]
+    intermediate:
+      +materialized: view
+      +schema: staging
+      +tags: ["intermediate"]
+    marts:
+      +materialized: table
+      +schema: analytics
+      +tags: ["marts"]
+
+seeds:
+  projet8_ocr:
+    +schema: raw
+    +tags: ["seeds"]
+    students_raw:
+      +column_types:
+        user_id: varchar(64)
+        path_category_name: varchar(32)
+        age_group: varchar(32)
+        gender: varchar(8)
+        region: varchar(128)
+        year_path_started: varchar(4)
+
+vars:
+  project_name: Projet 8 OCR
+  analysis_years: ["2022", "2023", "2024", "2025"]

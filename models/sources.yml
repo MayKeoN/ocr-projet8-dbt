@@ -1,0 +1,27 @@
+version: 2
+
+sources:
+  - name: ocr_raw
+    description: >
+      Données internes OpenClassrooms — inscriptions parcours Data (2022-2025).
+      Chargées via dbt seed depuis le fichier mission OCR.
+    database: "{{ target.database }}"
+    schema: "{{ target.schema }}_raw"
+    tables:
+      - name: students_raw
+        description: Inscriptions brutes — une ligne par utilisateur inscrit au parcours Data
+        columns:
+          - name: USER_ID
+            description: Identifiant pseudonymisé (doublons possibles en brut — dédupliqués en staging)
+            tests:
+              - not_null
+          - name: PATH_CATEGORY_NAME
+            description: Catégorie de parcours (filtre Data)
+          - name: AGE_GROUP
+            description: Tranche d'âge
+          - name: GENDER
+            description: Genre (peut être vide — ~27% manquants)
+          - name: REGION
+            description: Région administrative française
+          - name: YEAR_PATH_STARTED
+            description: Année de début de parcours

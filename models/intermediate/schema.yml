@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: int_students_by_year_region
+    description: Comptages étudiants par année, région, tranche d'âge et genre
+    columns:
+      - name: year_path_started
+        tests:
+          - not_null
+      - name: region
+        tests:
+          - not_null
+      - name: student_count
+        tests:
+          - not_null

@@ -1,0 +1,26 @@
+version: 2
+
+models:
+  - name: mart_demographic_evolution
+    description: >
+      Mart analytique — évolution sociodémographique agrégée (année × région × âge × genre).
+      Export principal pour la présentation et les indicateurs OCR.
+    columns:
+      - name: year_path_started
+        tests:
+          - not_null
+      - name: student_count
+        tests:
+          - not_null
+      - name: pct_of_year
+        description: Part (%) dans l'année
+
+  - name: mart_student_detail
+    description: >
+      Mart détail — une ligne par étudiant (données nettoyées, RGPD).
+      Base pour l'export CSV livrable 1.
+    columns:
+      - name: user_id
+        tests:
+          - unique
+          - not_null

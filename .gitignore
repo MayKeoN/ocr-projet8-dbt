@@ -1,0 +1,10 @@
+target/
+dbt_packages/
+logs/
+.env
+*.user.yml
+profiles.yml
+dbt_internal_packages/
+.credentials/
+*.pem
+*.p8

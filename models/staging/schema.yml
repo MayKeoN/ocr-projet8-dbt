@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: stg_students
+    description: >
+      Staging — nettoyage des inscriptions Data OCR. Filtre années 2022-2025,
+      normalisation genre (Non renseigné si vide), conservation du flag RGPD.
+    columns:
+      - name: user_id
+        description: Identifiant pseudonymisé unique
+        tests:
+          - unique
+          - not_null
+      - name: path_category_name
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Data']
+      - name: age_group
+        tests:
+          - not_null
+      - name: gender
+        description: Genre normalisé (Non renseigné si source vide)
+        tests:
+          - not_null
+      - name: region
+        tests:
+          - not_null
+      - name: year_path_started
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: [2022, 2023, 2024, 2025]
+                quote: false
