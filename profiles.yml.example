@@ -1,4 +1,4 @@
-# Copy to ~/.dbt/profiles.yml and fill in secrets (never commit profiles.yml)
+# Template without secrets — full config is in profiles.yml (private repo)
 projet8_ocr:
   target: dev
   outputs:

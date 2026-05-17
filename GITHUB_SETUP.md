@@ -27,7 +27,7 @@ Dépôt par défaut : **`ocr-projet8-dbt`** (privé). Autre nom :
 
 1. **dbt Cloud** : Settings → Git → connecter le repo → sous-dossier racine = `/` (racine du repo).
 2. **Snowflake** : les données sont chargées via `dbtf seed` (fichier `seeds/students_raw.csv` dans le repo).
-3. Copier [profiles.yml.example](profiles.yml.example) vers `~/.dbt/profiles.yml` et renseigner les secrets (jamais dans Git).
+3. Utiliser [profiles.yml](profiles.yml) : copier vers `~/.dbt/profiles.yml` ou `set DBT_PROFILES_DIR` vers ce dossier.
 
 ## Fichiers exclus du dépôt (`.gitignore`)
 

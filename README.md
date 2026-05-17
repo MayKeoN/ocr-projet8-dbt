@@ -4,7 +4,7 @@ Analyse de l'évolution du profil sociodémographique des étudiants Data OpenCl
 
 ## Prérequis
 
-- Profil `projet8_ocr` dans `~/.dbt/profiles.yml` (voir [profiles.yml.example](profiles.yml.example))
+- Profil Snowflake : [profiles.yml](profiles.yml) (copier vers `~/.dbt/profiles.yml` ou `set DBT_PROFILES_DIR` sur ce dossier)
 - dbt-fusion : `dbtf --version`
 
 ## GitHub / Snowflake
