@@ -2,6 +2,8 @@ name: projet8_ocr
 version: 1.0.0
 config-version: 2
 profile: projet8_ocr
+dbt-cloud:
+    project-id: 70506183139824
 
 model-paths: ["models"]
 analysis-paths: ["analyses"]
