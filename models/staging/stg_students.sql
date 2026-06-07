@@ -32,8 +32,8 @@ deduped as (
     select
         *,
         row_number() over (
-            partition by user_id
-            order by year_path_started desc
+            partition by user_id, year_path_started
+            order by user_id
         ) as row_num
     from cleaned
 )

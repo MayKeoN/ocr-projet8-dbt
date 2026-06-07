@@ -1,0 +1,863 @@
+YEAR_PATH_STARTED,REGION,AGE_GROUP,GENDER,STUDENT_COUNT,TOTAL_STUDENTS_YEAR,PCT_OF_YEAR,REGIONAL_POPULATION,STUDENTS_PER_100K_INHABITANTS
+2022,Provence-Alpes-Côte d'Azur,35-39 ans,Non renseigné,6,1696,0.35,,
+2023,Île-de-France,50-54 ans,Non renseigné,16,1150,1.39,,
+2023,Île-de-France,25-29 ans,M,60,1150,5.22,403065.0,14.8859
+2022,Nouvelle-Aquitaine,40-44 ans,M,7,1696,0.41,180389.0,3.8805
+2025,Île-de-France,35-39 ans,M,38,951,4.0,,
+2022,Île-de-France,40-44 ans,F,34,1696,2.0,430626.0,7.8955
+2025,Grand Est,30-34 ans,F,4,951,0.42,,
+2022,Grand Est,35-39 ans,M,10,1696,0.59,168733.0,5.9265
+2024,Normandie,25-29 ans,M,2,850,0.24,,
+2023,Provence-Alpes-Côte d'Azur,25-29 ans,M,7,1150,0.61,126587.0,5.5298
+2025,Bourgogne-Franche-Comté,35-39 ans,M,1,951,0.11,,
+2023,Nouvelle-Aquitaine,25-29 ans,M,10,1150,0.87,148952.0,6.7136
+2025,Île-de-France,45-49 ans,F,10,951,1.05,,
+2024,Île-de-France,35-39 ans,F,21,850,2.47,,
+2023,Centre-Val de Loire,25-29 ans,M,5,1150,0.43,63087.0,7.9256
+2024,Centre-Val de Loire,30-34 ans,M,3,850,0.35,,
+2024,Île-de-France,20-24 ans,F,4,850,0.47,,
+2022,Auvergne-Rhône-Alpes,25-29 ans,Non renseigné,11,1696,0.65,,
+2025,Centre-Val de Loire,60 ans ou plus,M,2,951,0.21,,
+2022,Occitanie,40-44 ans,M,6,1696,0.35,181892.0,3.2987
+2023,Pays de la Loire,40-44 ans,Non renseigné,1,1150,0.09,,
+2022,Provence-Alpes-Côte d'Azur,45-49 ans,Non renseigné,4,1696,0.24,,
+2025,Provence-Alpes-Côte d'Azur,30-34 ans,M,14,951,1.47,,
+2024,Centre-Val de Loire,45-49 ans,M,1,850,0.12,,
+2025,Provence-Alpes-Côte d'Azur,50-54 ans,M,3,951,0.32,,
+2024,Auvergne-Rhône-Alpes,35-39 ans,M,7,850,0.82,,
+2023,Hauts-de-France,20-24 ans,M,2,1150,0.17,191023.0,1.047
+2024,Grand Est,30-34 ans,M,7,850,0.82,,
+2022,Hauts-de-France,35-39 ans,Non renseigné,5,1696,0.29,,
+2022,Hauts-de-France,30-34 ans,M,17,1696,1.0,177538.0,9.5754
+2025,Nouvelle-Aquitaine,45-49 ans,M,3,951,0.32,,
+2025,Occitanie,50-54 ans,F,2,951,0.21,,
+2024,Pays de la Loire,35-39 ans,Non renseigné,1,850,0.12,,
+2022,Île-de-France,45-49 ans,Non renseigné,23,1696,1.36,,
+2022,Nouvelle-Aquitaine,35-39 ans,Non renseigné,5,1696,0.29,,
+2024,Nouvelle-Aquitaine,20-24 ans,M,3,850,0.35,,
+2024,Occitanie,35-39 ans,M,5,850,0.59,,
+2025,Occitanie,45-49 ans,M,5,951,0.53,,
+2025,Provence-Alpes-Côte d'Azur,20-24 ans,M,4,951,0.42,,
+2025,Pays de la Loire,40-44 ans,M,3,951,0.32,,
+2023,Auvergne-Rhône-Alpes,25-29 ans,Non renseigné,6,1150,0.52,,
+2023,Île-de-France,60 ans ou plus,Non renseigné,5,1150,0.43,,
+2023,Normandie,50-54 ans,M,2,1150,0.17,106905.0,1.8708
+2023,Pays de la Loire,50-54 ans,M,2,1150,0.17,127882.0,1.5639
+2022,Île-de-France,50-54 ans,F,4,1696,0.24,402973.0,0.9926
+2023,Auvergne-Rhône-Alpes,35-39 ans,M,6,1150,0.52,249965.0,2.4003
+2024,Nouvelle-Aquitaine,35-39 ans,F,4,850,0.47,,
+2024,Bretagne,20-24 ans,M,3,850,0.35,,
+2024,Normandie,30-34 ans,M,3,850,0.35,,
+2024,Bretagne,35-39 ans,M,2,850,0.24,,
+2025,Nouvelle-Aquitaine,60 ans ou plus,Non renseigné,1,951,0.11,,
+2022,Île-de-France,60 ans ou plus,M,10,1696,0.59,7093517.0,0.141
+2023,Île-de-France,55-59 ans,Non renseigné,12,1150,1.04,,
+2023,Bretagne,40-44 ans,M,1,1150,0.09,103591.0,0.9653
+2025,Normandie,50-54 ans,M,2,951,0.21,,
+2025,Hauts-de-France,20-24 ans,M,3,951,0.32,,
+2022,Auvergne-Rhône-Alpes,40-44 ans,M,7,1696,0.41,253326.0,2.7632
+2022,Provence-Alpes-Côte d'Azur,50-54 ans,Non renseigné,2,1696,0.12,,
+2023,Hauts-de-France,35-39 ans,Non renseigné,6,1150,0.52,,
+2022,Hauts-de-France,25-29 ans,M,2,1696,0.12,165777.0,1.2064
+2023,Centre-Val de Loire,45-49 ans,M,2,1150,0.17,77221.0,2.59
+2024,Grand Est,30-34 ans,F,2,850,0.24,,
+2024,Île-de-France,45-49 ans,Non renseigné,1,850,0.12,,
+2023,Nouvelle-Aquitaine,40-44 ans,F,3,1150,0.26,190358.0,1.576
+2022,Bretagne,25-29 ans,M,2,1696,0.12,85055.0,2.3514
+2025,Auvergne-Rhône-Alpes,20-24 ans,Non renseigné,1,951,0.11,,
+2024,Normandie,40-44 ans,F,1,850,0.12,,
+2024,Provence-Alpes-Côte d'Azur,30-34 ans,F,1,850,0.12,,
+2025,Bretagne,55-59 ans,M,1,951,0.11,,
+2024,Île-de-France,25-29 ans,Non renseigné,2,850,0.24,,
+2022,Grand Est,45-49 ans,M,2,1696,0.12,173206.0,1.1547
+2024,Nouvelle-Aquitaine,50-54 ans,F,2,850,0.24,,
+2024,Auvergne-Rhône-Alpes,20-24 ans,F,1,850,0.12,,
+2024,Normandie,20-24 ans,M,3,850,0.35,,
+2023,Occitanie,35-39 ans,Non renseigné,2,1150,0.17,,
+2025,Centre-Val de Loire,45-49 ans,F,2,951,0.21,,
+2024,Provence-Alpes-Côte d'Azur,35-39 ans,Non renseigné,2,850,0.24,,
+2022,Grand Est,45-49 ans,Non renseigné,2,1696,0.12,,
+2023,Bretagne,35-39 ans,Non renseigné,3,1150,0.26,,
+2022,DROM,40-44 ans,Non renseigné,1,1696,0.06,,
+2024,Nouvelle-Aquitaine,45-49 ans,Non renseigné,1,850,0.12,,
+2024,Grand Est,50-54 ans,Non renseigné,1,850,0.12,,
+2025,Normandie,30-34 ans,Non renseigné,1,951,0.11,,
+2022,Provence-Alpes-Côte d'Azur,55-59 ans,Non renseigné,1,1696,0.06,,
+2024,Grand Est,20-24 ans,F,1,850,0.12,,
+2022,Provence-Alpes-Côte d'Azur,35-39 ans,F,1,1696,0.06,159927.0,0.6253
+2024,Provence-Alpes-Côte d'Azur,45-49 ans,F,2,850,0.24,,
+2025,Normandie,25-29 ans,M,2,951,0.21,,
+2023,Île-de-France,20-24 ans,Non renseigné,1,1150,0.09,,
+2025,Grand Est,55-59 ans,M,1,951,0.11,,
+2023,Normandie,30-34 ans,M,2,1150,0.17,91272.0,2.1913
+2025,Bourgogne-Franche-Comté,45-49 ans,M,1,951,0.11,,
+2022,Normandie,40-44 ans,Non renseigné,1,1696,0.06,,
+2024,Centre-Val de Loire,40-44 ans,F,1,850,0.12,,
+2023,DROM,35-39 ans,M,1,1150,0.09,,
+2023,Centre-Val de Loire,50-54 ans,M,1,1150,0.09,85833.0,1.1651
+2023,Hauts-de-France,45-49 ans,F,1,1150,0.09,187043.0,0.5346
+2022,Auvergne-Rhône-Alpes,40-44 ans,Non renseigné,14,1696,0.83,,
+2022,Bourgogne-Franche-Comté,30-34 ans,Non renseigné,4,1696,0.24,,
+2022,Hauts-de-France,30-34 ans,F,7,1696,0.41,182729.0,3.8308
+2025,Grand Est,35-39 ans,M,10,951,1.05,,
+2022,Provence-Alpes-Côte d'Azur,25-29 ans,Non renseigné,8,1696,0.47,,
+2022,Pays de la Loire,45-49 ans,F,2,1696,0.12,124451.0,1.6071
+2022,Occitanie,25-29 ans,M,10,1696,0.59,160022.0,6.2491
+2025,Île-de-France,50-54 ans,Non renseigné,4,951,0.42,,
+2023,Centre-Val de Loire,30-34 ans,F,2,1150,0.17,70080.0,2.8539
+2025,Grand Est,30-34 ans,M,6,951,0.63,,
+2025,Occitanie,35-39 ans,M,9,951,0.95,,
+2023,Île-de-France,50-54 ans,M,14,1150,1.22,394313.0,3.5505
+2024,Auvergne-Rhône-Alpes,45-49 ans,M,7,850,0.82,,
+2022,Centre-Val de Loire,35-39 ans,M,7,1696,0.41,73099.0,9.5761
+2025,Île-de-France,45-49 ans,M,20,951,2.1,,
+2022,Île-de-France,50-54 ans,M,21,1696,1.24,387069.0,5.4254
+2024,Île-de-France,30-34 ans,Non renseigné,10,850,1.18,,
+2024,Provence-Alpes-Côte d'Azur,25-29 ans,F,7,850,0.82,,
+2023,Île-de-France,25-29 ans,Non renseigné,47,1150,4.09,,
+2025,Bretagne,60 ans ou plus,F,1,951,0.11,,
+2023,Bretagne,30-34 ans,Non renseigné,4,1150,0.35,,
+2022,Nouvelle-Aquitaine,25-29 ans,Non renseigné,10,1696,0.59,,
+2025,Nouvelle-Aquitaine,20-24 ans,M,6,951,0.63,,
+2023,Provence-Alpes-Côte d'Azur,30-34 ans,F,4,1150,0.35,150339.0,2.6607
+2025,Nouvelle-Aquitaine,55-59 ans,M,3,951,0.32,,
+2024,Centre-Val de Loire,25-29 ans,M,5,850,0.59,,
+2025,Normandie,50-54 ans,F,2,951,0.21,,
+2024,Île-de-France,45-49 ans,M,16,850,1.88,,
+2022,Grand Est,35-39 ans,Non renseigné,9,1696,0.53,,
+2024,Île-de-France,40-44 ans,Non renseigné,8,850,0.94,,
+2023,Centre-Val de Loire,30-34 ans,M,2,1150,0.17,68607.0,2.9152
+2024,Nouvelle-Aquitaine,40-44 ans,M,3,850,0.35,,
+2022,Auvergne-Rhône-Alpes,50-54 ans,M,3,1696,0.18,268352.0,1.1179
+2022,Auvergne-Rhône-Alpes,30-34 ans,Non renseigné,23,1696,1.36,,
+2022,Grand Est,40-44 ans,M,8,1696,0.47,168460.0,4.7489
+2024,Grand Est,35-39 ans,F,1,850,0.12,,
+2022,Bourgogne-Franche-Comté,25-29 ans,F,2,1696,0.12,66772.0,2.9953
+2025,Auvergne-Rhône-Alpes,50-54 ans,M,1,951,0.11,,
+2025,Nouvelle-Aquitaine,35-39 ans,F,2,951,0.21,,
+2022,Bretagne,45-49 ans,M,4,1696,0.24,109191.0,3.6633
+2022,Provence-Alpes-Côte d'Azur,50-54 ans,M,2,1696,0.12,163854.0,1.2206
+2023,Hauts-de-France,30-34 ans,F,5,1150,0.43,179242.0,2.7895
+2022,Bretagne,35-39 ans,Non renseigné,3,1696,0.18,,
+2024,Île-de-France,40-44 ans,M,25,850,2.94,,
+2024,Bretagne,40-44 ans,M,4,850,0.47,,
+2024,Île-de-France,35-39 ans,M,35,850,4.12,,
+2025,DROM,40-44 ans,F,1,951,0.11,,
+2022,Auvergne-Rhône-Alpes,35-39 ans,Non renseigné,12,1696,0.71,,
+2025,Pays de la Loire,55-59 ans,F,2,951,0.21,,
+2023,Auvergne-Rhône-Alpes,45-49 ans,Non renseigné,2,1150,0.17,,
+2022,Provence-Alpes-Côte d'Azur,60 ans ou plus,M,2,1696,0.12,3140043.0,0.0637
+2022,Bretagne,25-29 ans,F,1,1696,0.06,81592.0,1.2256
+2023,Île-de-France,35-39 ans,F,30,1150,2.61,449904.0,6.6681
+2022,Pays de la Loire,45-49 ans,Non renseigné,3,1696,0.18,,
+2025,Île-de-France,50-54 ans,F,6,951,0.63,,
+2023,Grand Est,40-44 ans,M,4,1150,0.35,170898.0,2.3406
+2022,Normandie,25-29 ans,M,5,1696,0.29,85152.0,5.8719
+2023,Pays de la Loire,35-39 ans,Non renseigné,6,1150,0.52,,
+2022,Nouvelle-Aquitaine,20-24 ans,Non renseigné,1,1696,0.06,,
+2023,Bretagne,50-54 ans,Non renseigné,2,1150,0.17,,
+2023,Bourgogne-Franche-Comté,55-59 ans,M,2,1150,0.17,92786.0,2.1555
+2022,Auvergne-Rhône-Alpes,25-29 ans,M,8,1696,0.47,225390.0,3.5494
+2025,Hauts-de-France,45-49 ans,M,4,951,0.42,,
+2022,Bretagne,30-34 ans,M,5,1696,0.29,90537.0,5.5226
+2022,Hauts-de-France,50-54 ans,Non renseigné,4,1696,0.24,,
+2023,Hauts-de-France,40-44 ans,Non renseigné,1,1150,0.09,,
+2022,Pays de la Loire,55-59 ans,F,2,1696,0.12,124748.0,1.6032
+2023,Nouvelle-Aquitaine,50-54 ans,F,2,1150,0.17,210991.0,0.9479
+2023,Grand Est,20-24 ans,M,1,1150,0.09,169813.0,0.5889
+2025,Bretagne,50-54 ans,M,1,951,0.11,,
+2025,Auvergne-Rhône-Alpes,45-49 ans,M,2,951,0.21,,
+2023,Hauts-de-France,40-44 ans,F,2,1150,0.17,193570.0,1.0332
+2023,Normandie,30-34 ans,Non renseigné,3,1150,0.26,,
+2023,Pays de la Loire,55-59 ans,M,1,1150,0.09,121448.0,0.8234
+2023,Grand Est,55-59 ans,M,1,1150,0.09,187037.0,0.5347
+2023,Île-de-France,60 ans ou plus,M,8,1150,0.7,7125178.0,0.1123
+2023,Provence-Alpes-Côte d'Azur,40-44 ans,M,2,1150,0.17,153433.0,1.3035
+2023,Auvergne-Rhône-Alpes,30-34 ans,F,6,1150,0.52,248620.0,2.4133
+2022,Bourgogne-Franche-Comté,35-39 ans,F,1,1696,0.06,80731.0,1.2387
+2025,Occitanie,50-54 ans,M,1,951,0.11,,
+2022,Centre-Val de Loire,60 ans ou plus,Non renseigné,1,1696,0.06,,
+2022,Nouvelle-Aquitaine,60 ans ou plus,M,1,1696,0.06,3783570.0,0.0264
+2023,Hauts-de-France,35-39 ans,M,5,1150,0.43,182862.0,2.7343
+2023,Bretagne,30-34 ans,F,2,1150,0.17,89601.0,2.2321
+2025,Grand Est,30-34 ans,Non renseigné,1,951,0.11,,
+2025,Nouvelle-Aquitaine,50-54 ans,M,1,951,0.11,,
+2023,DROM,45-49 ans,F,1,1150,0.09,,
+2024,Occitanie,35-39 ans,Non renseigné,1,850,0.12,,
+2022,Occitanie,50-54 ans,Non renseigné,1,1696,0.06,,
+2024,Nouvelle-Aquitaine,35-39 ans,Non renseigné,2,850,0.24,,
+2024,Pays de la Loire,35-39 ans,M,1,850,0.12,,
+2022,Nouvelle-Aquitaine,30-34 ans,F,1,1696,0.06,166092.0,0.6021
+2024,Provence-Alpes-Côte d'Azur,50-54 ans,M,3,850,0.35,,
+2025,Grand Est,20-24 ans,Non renseigné,1,951,0.11,,
+2025,Bretagne,25-29 ans,M,3,951,0.32,,
+2025,Hauts-de-France,35-39 ans,F,1,951,0.11,,
+2022,Occitanie,55-59 ans,M,2,1696,0.12,195790.0,1.0215
+2023,Auvergne-Rhône-Alpes,55-59 ans,Non renseigné,1,1150,0.09,,
+2022,Provence-Alpes-Côte d'Azur,25-29 ans,F,4,1696,0.24,131118.0,3.0507
+2022,Bretagne,20-24 ans,M,1,1696,0.06,98014.0,1.0203
+2024,Pays de la Loire,30-34 ans,Non renseigné,1,850,0.12,,
+2025,Pays de la Loire,30-34 ans,F,2,951,0.21,,
+2022,Centre-Val de Loire,20-24 ans,M,2,1696,0.12,69149.0,2.8923
+2023,Normandie,20-24 ans,F,1,1150,0.09,90283.0,1.1076
+2023,Provence-Alpes-Côte d'Azur,40-44 ans,Non renseigné,3,1150,0.26,,
+2023,Nouvelle-Aquitaine,40-44 ans,Non renseigné,3,1150,0.26,,
+2024,Occitanie,25-29 ans,F,2,850,0.24,,
+2023,Bourgogne-Franche-Comté,40-44 ans,M,1,1150,0.09,81926.0,1.2206
+2025,Grand Est,35-39 ans,Non renseigné,1,951,0.11,,
+2023,Centre-Val de Loire,25-29 ans,F,1,1150,0.09,61948.0,1.6143
+2024,Auvergne-Rhône-Alpes,45-49 ans,F,1,850,0.12,,
+2025,Grand Est,40-44 ans,M,2,951,0.21,,
+2024,DROM,30-34 ans,F,1,850,0.12,,
+2022,Bretagne,60 ans ou plus,M,1,1696,0.06,2113911.0,0.0473
+2023,Grand Est,30-34 ans,F,1,1150,0.09,164561.0,0.6077
+2023,Auvergne-Rhône-Alpes,20-24 ans,F,1,1150,0.09,233007.0,0.4292
+2023,Occitanie,55-59 ans,Non renseigné,1,1150,0.09,,
+2023,Bretagne,45-49 ans,F,1,1150,0.09,106368.0,0.9401
+2024,Nouvelle-Aquitaine,55-59 ans,M,1,850,0.12,,
+2023,Centre-Val de Loire,40-44 ans,Non renseigné,1,1150,0.09,,
+2022,Île-de-France,60 ans ou plus,F,1,1696,0.06,7830087.0,0.0128
+2023,Bourgogne-Franche-Comté,20-24 ans,Non renseigné,1,1150,0.09,,
+2022,Auvergne-Rhône-Alpes,55-59 ans,Non renseigné,1,1696,0.06,,
+2022,DROM,40-44 ans,M,1,1696,0.06,,
+2022,Grand Est,50-54 ans,M,1,1696,0.06,185230.0,0.5399
+2023,Centre-Val de Loire,35-39 ans,F,1,1150,0.09,75644.0,1.322
+2022,Hauts-de-France,25-29 ans,F,1,1696,0.06,166806.0,0.5995
+2024,Normandie,50-54 ans,F,1,850,0.12,,
+2023,Provence-Alpes-Côte d'Azur,50-54 ans,F,1,1150,0.09,176434.0,0.5668
+2022,Île-de-France,30-34 ans,Non renseigné,90,1696,5.31,,
+2022,Occitanie,30-34 ans,Non renseigné,17,1696,1.0,,
+2023,Centre-Val de Loire,35-39 ans,M,1,1150,0.09,72285.0,1.3834
+2022,Île-de-France,35-39 ans,M,55,1696,3.24,414370.0,13.2732
+2023,Nouvelle-Aquitaine,25-29 ans,Non renseigné,3,1150,0.26,,
+2022,Pays de la Loire,40-44 ans,Non renseigné,5,1696,0.29,,
+2022,Occitanie,30-34 ans,M,14,1696,0.83,166149.0,8.4262
+2022,Île-de-France,55-59 ans,F,6,1696,0.35,393823.0,1.5235
+2022,Grand Est,30-34 ans,Non renseigné,11,1696,0.65,,
+2025,Auvergne-Rhône-Alpes,60 ans ou plus,M,2,951,0.21,,
+2023,Île-de-France,40-44 ans,Non renseigné,30,1150,2.61,,
+2025,Nouvelle-Aquitaine,45-49 ans,Non renseigné,1,951,0.11,,
+2023,Pays de la Loire,45-49 ans,M,3,1150,0.26,121395.0,2.4713
+2023,Île-de-France,45-49 ans,Non renseigné,17,1150,1.48,,
+2022,Occitanie,25-29 ans,Non renseigné,5,1696,0.29,,
+2023,Île-de-France,45-49 ans,F,13,1150,1.13,409219.0,3.1768
+2025,Provence-Alpes-Côte d'Azur,45-49 ans,F,2,951,0.21,,
+2023,Pays de la Loire,35-39 ans,M,3,1150,0.26,113852.0,2.635
+2024,Nouvelle-Aquitaine,35-39 ans,M,5,850,0.59,,
+2023,Auvergne-Rhône-Alpes,35-39 ans,F,4,1150,0.35,262033.0,1.5265
+2022,Normandie,40-44 ans,M,3,1696,0.18,97403.0,3.08
+2024,Île-de-France,20-24 ans,M,12,850,1.41,,
+2024,Nouvelle-Aquitaine,55-59 ans,F,1,850,0.12,,
+2024,Auvergne-Rhône-Alpes,40-44 ans,Non renseigné,2,850,0.24,,
+2023,Auvergne-Rhône-Alpes,20-24 ans,M,2,1150,0.17,246852.0,0.8102
+2022,Provence-Alpes-Côte d'Azur,40-44 ans,F,4,1696,0.24,162630.0,2.4596
+2025,Auvergne-Rhône-Alpes,30-34 ans,F,4,951,0.42,,
+2024,Île-de-France,40-44 ans,F,8,850,0.94,,
+2025,Hauts-de-France,20-24 ans,F,1,951,0.11,,
+2023,Auvergne-Rhône-Alpes,25-29 ans,M,8,1150,0.7,226065.0,3.5388
+2023,Nouvelle-Aquitaine,35-39 ans,F,1,1150,0.09,178633.0,0.5598
+2022,Nouvelle-Aquitaine,35-39 ans,F,3,1696,0.18,179113.0,1.6749
+2022,Grand Est,20-24 ans,M,2,1696,0.12,168883.0,1.1843
+2022,Provence-Alpes-Côte d'Azur,30-34 ans,F,2,1696,0.12,150433.0,1.3295
+2024,Auvergne-Rhône-Alpes,20-24 ans,M,7,850,0.82,,
+2022,Nouvelle-Aquitaine,25-29 ans,M,9,1696,0.53,148076.0,6.078
+2023,Bourgogne-Franche-Comté,30-34 ans,Non renseigné,1,1150,0.09,,
+2022,Bretagne,30-34 ans,Non renseigné,5,1696,0.29,,
+2024,Normandie,50-54 ans,M,1,850,0.12,,
+2025,Normandie,40-44 ans,M,6,951,0.63,,
+2025,Occitanie,20-24 ans,M,6,951,0.63,,
+2022,Île-de-France,55-59 ans,Non renseigné,12,1696,0.71,,
+2024,Pays de la Loire,25-29 ans,F,1,850,0.12,,
+2023,Occitanie,30-34 ans,F,4,1150,0.35,172909.0,2.3134
+2025,Centre-Val de Loire,40-44 ans,M,3,951,0.32,,
+2022,Occitanie,35-39 ans,Non renseigné,9,1696,0.53,,
+2022,Hauts-de-France,40-44 ans,F,4,1696,0.24,190388.0,2.101
+2022,Centre-Val de Loire,30-34 ans,F,4,1696,0.24,71276.0,5.612
+2025,Normandie,35-39 ans,Non renseigné,1,951,0.11,,
+2025,Occitanie,35-39 ans,F,3,951,0.32,,
+2023,Hauts-de-France,25-29 ans,F,4,1150,0.35,166214.0,2.4065
+2025,Grand Est,25-29 ans,F,2,951,0.21,,
+2024,Occitanie,25-29 ans,Non renseigné,3,850,0.35,,
+2022,Grand Est,25-29 ans,Non renseigné,7,1696,0.41,,
+2025,Bourgogne-Franche-Comté,30-34 ans,F,2,951,0.21,,
+2023,Normandie,50-54 ans,F,1,1150,0.09,109572.0,0.9126
+2022,Auvergne-Rhône-Alpes,50-54 ans,F,2,1696,0.12,270808.0,0.7385
+2024,Pays de la Loire,30-34 ans,F,4,850,0.47,,
+2024,Centre-Val de Loire,20-24 ans,M,2,850,0.24,,
+2022,Hauts-de-France,50-54 ans,M,6,1696,0.35,190939.0,3.1424
+2023,Nouvelle-Aquitaine,45-49 ans,Non renseigné,1,1150,0.09,,
+2025,DROM,35-39 ans,Non renseigné,1,951,0.11,,
+2023,Nouvelle-Aquitaine,30-34 ans,F,5,1150,0.43,164820.0,3.0336
+2024,Île-de-France,55-59 ans,M,2,850,0.24,,
+2025,Île-de-France,55-59 ans,M,5,951,0.53,,
+2024,Occitanie,50-54 ans,M,2,850,0.24,,
+2022,Pays de la Loire,55-59 ans,M,1,1696,0.06,120879.0,0.8273
+2023,Auvergne-Rhône-Alpes,35-39 ans,Non renseigné,4,1150,0.35,,
+2025,Bourgogne-Franche-Comté,20-24 ans,M,4,951,0.42,,
+2023,Bretagne,25-29 ans,M,4,1150,0.35,85660.0,4.6696
+2023,Bretagne,30-34 ans,M,1,1150,0.09,90177.0,1.1089
+2022,Centre-Val de Loire,30-34 ans,Non renseigné,5,1696,0.29,,
+2023,Occitanie,55-59 ans,F,1,1150,0.09,210756.0,0.4745
+2024,Normandie,45-49 ans,F,1,850,0.12,,
+2022,Auvergne-Rhône-Alpes,45-49 ans,Non renseigné,6,1696,0.35,,
+2025,Île-de-France,45-49 ans,Non renseigné,3,951,0.32,,
+2024,Occitanie,50-54 ans,F,1,850,0.12,,
+2023,Île-de-France,20-24 ans,F,2,1150,0.17,410262.0,0.4875
+2025,Grand Est,50-54 ans,M,3,951,0.32,,
+2024,Normandie,35-39 ans,F,3,850,0.35,,
+2023,Provence-Alpes-Côte d'Azur,55-59 ans,M,1,1150,0.09,165598.0,0.6039
+2022,Île-de-France,20-24 ans,M,1,1696,0.06,396662.0,0.2521
+2022,Provence-Alpes-Côte d'Azur,55-59 ans,F,1,1696,0.06,182860.0,0.5469
+2023,Grand Est,40-44 ans,Non renseigné,1,1150,0.09,,
+2022,Pays de la Loire,50-54 ans,F,1,1696,0.06,125188.0,0.7988
+2025,Hauts-de-France,40-44 ans,M,4,951,0.42,,
+2022,Normandie,55-59 ans,F,1,1696,0.06,112288.0,0.8906
+2025,Centre-Val de Loire,50-54 ans,F,1,951,0.11,,
+2024,Île-de-France,60 ans ou plus,M,1,850,0.12,,
+2025,Normandie,55-59 ans,F,1,951,0.11,,
+2024,Centre-Val de Loire,25-29 ans,F,1,850,0.12,,
+2024,Provence-Alpes-Côte d'Azur,50-54 ans,F,1,850,0.12,,
+2025,Provence-Alpes-Côte d'Azur,55-59 ans,F,1,951,0.11,,
+2022,Île-de-France,40-44 ans,Non renseigné,40,1696,2.36,,
+2025,Centre-Val de Loire,35-39 ans,M,7,951,0.74,,
+2022,Pays de la Loire,25-29 ans,M,4,1696,0.24,100744.0,3.9705
+2024,Grand Est,35-39 ans,M,11,850,1.29,,
+2022,Occitanie,35-39 ans,F,3,1696,0.18,182816.0,1.641
+2025,Auvergne-Rhône-Alpes,40-44 ans,M,11,951,1.16,,
+2025,Auvergne-Rhône-Alpes,30-34 ans,M,16,951,1.68,,
+2024,Île-de-France,45-49 ans,F,10,850,1.18,,
+2025,Nouvelle-Aquitaine,30-34 ans,M,7,951,0.74,,
+2025,Centre-Val de Loire,40-44 ans,F,2,951,0.21,,
+2022,Île-de-France,45-49 ans,M,22,1696,1.3,409685.0,5.37
+2025,Auvergne-Rhône-Alpes,20-24 ans,M,9,951,0.95,,
+2024,Auvergne-Rhône-Alpes,25-29 ans,M,21,850,2.47,,
+2024,Grand Est,40-44 ans,M,3,850,0.35,,
+2023,Bretagne,45-49 ans,M,1,1150,0.09,105860.0,0.9446
+2022,Nouvelle-Aquitaine,30-34 ans,M,16,1696,0.94,160209.0,9.987
+2025,Pays de la Loire,30-34 ans,M,4,951,0.42,,
+2024,Île-de-France,30-34 ans,F,30,850,3.53,,
+2024,Centre-Val de Loire,35-39 ans,M,6,850,0.71,,
+2025,Provence-Alpes-Côte d'Azur,30-34 ans,F,9,951,0.95,,
+2024,Bretagne,35-39 ans,F,1,850,0.12,,
+2025,DROM,25-29 ans,M,2,951,0.21,,
+2025,Bretagne,30-34 ans,M,4,951,0.42,,
+2022,Auvergne-Rhône-Alpes,30-34 ans,M,15,1696,0.88,242257.0,6.1918
+2024,Nouvelle-Aquitaine,20-24 ans,F,2,850,0.24,,
+2023,Provence-Alpes-Côte d'Azur,35-39 ans,F,1,1150,0.09,159522.0,0.6269
+2023,Nouvelle-Aquitaine,20-24 ans,M,2,1150,0.17,169551.0,1.1796
+2024,Normandie,30-34 ans,F,1,850,0.12,,
+2024,Bretagne,35-39 ans,Non renseigné,1,850,0.12,,
+2023,Hauts-de-France,25-29 ans,M,6,1150,0.52,164995.0,3.6365
+2023,Pays de la Loire,45-49 ans,Non renseigné,1,1150,0.09,,
+2022,Occitanie,55-59 ans,Non renseigné,2,1696,0.12,,
+2023,Nouvelle-Aquitaine,30-34 ans,Non renseigné,7,1150,0.61,,
+2022,Hauts-de-France,40-44 ans,Non renseigné,8,1696,0.47,,
+2022,Auvergne-Rhône-Alpes,30-34 ans,F,9,1696,0.53,249192.0,3.6117
+2024,Hauts-de-France,30-34 ans,F,2,850,0.24,,
+2025,Auvergne-Rhône-Alpes,35-39 ans,M,6,951,0.63,,
+2022,Grand Est,40-44 ans,Non renseigné,6,1696,0.35,,
+2025,Provence-Alpes-Côte d'Azur,45-49 ans,Non renseigné,1,951,0.11,,
+2023,Occitanie,40-44 ans,Non renseigné,3,1150,0.26,,
+2025,Pays de la Loire,35-39 ans,F,1,951,0.11,,
+2023,Île-de-France,20-24 ans,M,5,1150,0.43,403968.0,1.2377
+2023,Normandie,40-44 ans,F,1,1150,0.09,101760.0,0.9827
+2022,Provence-Alpes-Côte d'Azur,30-34 ans,Non renseigné,11,1696,0.65,,
+2025,Auvergne-Rhône-Alpes,20-24 ans,F,3,951,0.32,,
+2025,Auvergne-Rhône-Alpes,55-59 ans,M,1,951,0.11,,
+2023,Normandie,40-44 ans,Non renseigné,1,1150,0.09,,
+2022,Occitanie,55-59 ans,F,2,1696,0.12,209517.0,0.9546
+2022,Nouvelle-Aquitaine,45-49 ans,Non renseigné,6,1696,0.35,,
+2022,Pays de la Loire,30-34 ans,M,7,1696,0.41,109151.0,6.4131
+2022,Bourgogne-Franche-Comté,30-34 ans,F,1,1696,0.06,74605.0,1.3404
+2024,Hauts-de-France,35-39 ans,M,7,850,0.82,,
+2022,Bretagne,40-44 ans,M,4,1696,0.24,102261.0,3.9116
+2023,Occitanie,45-49 ans,M,3,1150,0.26,180677.0,1.6604
+2023,Nouvelle-Aquitaine,40-44 ans,M,1,1150,0.09,182296.0,0.5486
+2024,Nouvelle-Aquitaine,25-29 ans,F,3,850,0.35,,
+2023,Pays de la Loire,50-54 ans,F,1,1150,0.09,127878.0,0.782
+2024,Bretagne,30-34 ans,F,3,850,0.35,,
+2023,Hauts-de-France,50-54 ans,F,2,1150,0.17,195356.0,1.0238
+2023,Bourgogne-Franche-Comté,35-39 ans,M,2,1150,0.17,77782.0,2.5713
+2022,Auvergne-Rhône-Alpes,60 ans ou plus,M,2,1696,0.12,4935863.0,0.0405
+2023,Grand Est,50-54 ans,M,1,1150,0.09,185965.0,0.5377
+2025,Hauts-de-France,35-39 ans,M,10,951,1.05,,
+2024,Auvergne-Rhône-Alpes,20-24 ans,Non renseigné,1,850,0.12,,
+2024,Bretagne,45-49 ans,F,2,850,0.24,,
+2025,Grand Est,45-49 ans,M,2,951,0.21,,
+2022,Pays de la Loire,45-49 ans,M,3,1696,0.18,124318.0,2.4132
+2022,Bourgogne-Franche-Comté,45-49 ans,M,2,1696,0.12,85654.0,2.335
+2025,Auvergne-Rhône-Alpes,30-34 ans,Non renseigné,2,951,0.21,,
+2024,Grand Est,30-34 ans,Non renseigné,1,850,0.12,,
+2024,Hauts-de-France,35-39 ans,Non renseigné,2,850,0.24,,
+2025,Grand Est,50-54 ans,F,1,951,0.11,,
+2023,Grand Est,35-39 ans,M,3,1150,0.26,167425.0,1.7918
+2024,Hauts-de-France,30-34 ans,Non renseigné,2,850,0.24,,
+2024,Centre-Val de Loire,40-44 ans,M,3,850,0.35,,
+2023,Bourgogne-Franche-Comté,45-49 ans,F,1,1150,0.09,84371.0,1.1852
+2025,Occitanie,30-34 ans,F,4,951,0.42,,
+2024,Pays de la Loire,55-59 ans,M,1,850,0.12,,
+2025,DROM,60 ans ou plus,M,1,951,0.11,,
+2024,Pays de la Loire,20-24 ans,M,1,850,0.12,,
+2022,Nouvelle-Aquitaine,25-29 ans,F,1,1696,0.06,148179.0,0.6749
+2025,Hauts-de-France,25-29 ans,F,2,951,0.21,,
+2022,Grand Est,25-29 ans,F,2,1696,0.12,150051.0,1.3329
+2022,Bourgogne-Franche-Comté,35-39 ans,Non renseigné,3,1696,0.18,,
+2022,Auvergne-Rhône-Alpes,20-24 ans,M,1,1696,0.06,243074.0,0.4114
+2024,Île-de-France,55-59 ans,Non renseigné,4,850,0.47,,
+2024,Provence-Alpes-Côte d'Azur,55-59 ans,F,1,850,0.12,,
+2022,Provence-Alpes-Côte d'Azur,55-59 ans,M,2,1696,0.12,165494.0,1.2085
+2024,Pays de la Loire,40-44 ans,M,2,850,0.24,,
+2022,Pays de la Loire,35-39 ans,F,1,1696,0.06,118596.0,0.8432
+2025,Île-de-France,40-44 ans,Non renseigné,1,951,0.11,,
+2025,Hauts-de-France,30-34 ans,Non renseigné,3,951,0.32,,
+2022,Hauts-de-France,60 ans ou plus,M,2,1696,0.12,3558972.0,0.0562
+2023,Provence-Alpes-Côte d'Azur,50-54 ans,M,1,1150,0.09,165319.0,0.6049
+2022,Occitanie,45-49 ans,F,1,1696,0.06,192197.0,0.5203
+2022,Bretagne,60 ans ou plus,Non renseigné,1,1696,0.06,,
+2022,Normandie,45-49 ans,M,1,1696,0.06,100623.0,0.9938
+2024,DROM,25-29 ans,M,1,850,0.12,,
+2023,Occitanie,20-24 ans,M,1,1150,0.09,176840.0,0.5655
+2022,Pays de la Loire,30-34 ans,F,1,1696,0.06,109419.0,0.9139
+2023,Hauts-de-France,20-24 ans,Non renseigné,1,1150,0.09,,
+2024,Occitanie,55-59 ans,M,1,850,0.12,,
+2024,Auvergne-Rhône-Alpes,25-29 ans,F,9,850,1.06,,
+2025,Centre-Val de Loire,25-29 ans,F,3,951,0.32,,
+2023,Île-de-France,30-34 ans,Non renseigné,46,1150,4.0,,
+2023,Grand Est,25-29 ans,F,4,1150,0.35,148660.0,2.6907
+2025,Nouvelle-Aquitaine,35-39 ans,M,5,951,0.53,,
+2023,Provence-Alpes-Côte d'Azur,45-49 ans,M,2,1150,0.17,150676.0,1.3274
+2023,Île-de-France,40-44 ans,F,20,1150,1.74,433221.0,4.6166
+2022,Provence-Alpes-Côte d'Azur,30-34 ans,M,17,1696,1.0,141501.0,12.014
+2025,Île-de-France,30-34 ans,F,33,951,3.47,,
+2022,Occitanie,50-54 ans,F,1,1696,0.06,204438.0,0.4891
+2025,Île-de-France,40-44 ans,F,17,951,1.79,,
+2024,Île-de-France,25-29 ans,M,57,850,6.71,,
+2023,Auvergne-Rhône-Alpes,45-49 ans,M,5,1150,0.43,253875.0,1.9695
+2024,Île-de-France,30-34 ans,M,39,850,4.59,,
+2022,Occitanie,60 ans ou plus,M,1,1696,0.06,3737432.0,0.0268
+2023,Occitanie,40-44 ans,M,4,1150,0.35,184574.0,2.1672
+2025,Nouvelle-Aquitaine,25-29 ans,M,6,951,0.63,,
+2024,Centre-Val de Loire,30-34 ans,Non renseigné,1,850,0.12,,
+2022,Auvergne-Rhône-Alpes,35-39 ans,M,16,1696,0.94,251754.0,6.3554
+2023,Hauts-de-France,50-54 ans,M,2,1150,0.17,192765.0,1.0375
+2024,Pays de la Loire,40-44 ans,F,2,850,0.24,,
+2025,Provence-Alpes-Côte d'Azur,25-29 ans,M,10,951,1.05,,
+2023,Pays de la Loire,25-29 ans,Non renseigné,3,1150,0.26,,
+2022,Hauts-de-France,35-39 ans,F,12,1696,0.71,192849.0,6.2225
+2022,Provence-Alpes-Côte d'Azur,50-54 ans,F,1,1696,0.06,176141.0,0.5677
+2022,Île-de-France,25-29 ans,F,12,1696,0.71,430824.0,2.7854
+2025,Provence-Alpes-Côte d'Azur,35-39 ans,M,11,951,1.16,,
+2024,Pays de la Loire,55-59 ans,F,1,850,0.12,,
+2024,Île-de-France,50-54 ans,Non renseigné,3,850,0.35,,
+2022,Bretagne,25-29 ans,Non renseigné,3,1696,0.18,,
+2024,Occitanie,30-34 ans,M,11,850,1.29,,
+2024,Nouvelle-Aquitaine,50-54 ans,M,5,850,0.59,,
+2022,Bretagne,35-39 ans,M,3,1696,0.18,97316.0,3.0827
+2024,Auvergne-Rhône-Alpes,35-39 ans,Non renseigné,1,850,0.12,,
+2025,Grand Est,55-59 ans,Non renseigné,1,951,0.11,,
+2024,Bretagne,30-34 ans,Non renseigné,1,850,0.12,,
+2023,Pays de la Loire,30-34 ans,M,8,1150,0.7,109225.0,7.3243
+2023,Normandie,25-29 ans,M,6,1150,0.52,85209.0,7.0415
+2024,Occitanie,30-34 ans,F,6,850,0.71,,
+2024,Occitanie,25-29 ans,M,7,850,0.82,,
+2025,Île-de-France,40-44 ans,M,14,951,1.47,,
+2025,Occitanie,40-44 ans,F,2,951,0.21,,
+2024,Auvergne-Rhône-Alpes,50-54 ans,M,2,850,0.24,,
+2023,Normandie,45-49 ans,Non renseigné,1,1150,0.09,,
+2025,Provence-Alpes-Côte d'Azur,25-29 ans,F,3,951,0.32,,
+2024,Provence-Alpes-Côte d'Azur,40-44 ans,M,2,850,0.24,,
+2022,Hauts-de-France,40-44 ans,M,7,1696,0.41,185046.0,3.7828
+2022,Provence-Alpes-Côte d'Azur,40-44 ans,Non renseigné,8,1696,0.47,,
+2024,DROM,40-44 ans,M,1,850,0.12,,
+2023,Bretagne,45-49 ans,Non renseigné,1,1150,0.09,,
+2023,Normandie,45-49 ans,F,2,1150,0.17,99420.0,2.0117
+2022,Hauts-de-France,20-24 ans,M,1,1696,0.06,187772.0,0.5326
+2024,Occitanie,20-24 ans,M,3,850,0.35,,
+2022,Occitanie,30-34 ans,F,5,1696,0.29,173198.0,2.8869
+2024,Hauts-de-France,25-29 ans,M,12,850,1.41,,
+2024,Normandie,45-49 ans,Non renseigné,1,850,0.12,,
+2025,Bourgogne-Franche-Comté,45-49 ans,F,1,951,0.11,,
+2024,Auvergne-Rhône-Alpes,60 ans ou plus,M,2,850,0.24,,
+2025,Hauts-de-France,50-54 ans,M,2,951,0.21,,
+2023,Normandie,45-49 ans,M,1,1150,0.09,96834.0,1.0327
+2022,Bretagne,45-49 ans,Non renseigné,3,1696,0.18,,
+2022,Nouvelle-Aquitaine,55-59 ans,Non renseigné,1,1696,0.06,,
+2022,Nouvelle-Aquitaine,50-54 ans,M,3,1696,0.18,200075.0,1.4994
+2024,Auvergne-Rhône-Alpes,40-44 ans,M,8,850,0.94,,
+2022,Grand Est,30-34 ans,F,4,1696,0.24,166642.0,2.4004
+2022,Hauts-de-France,50-54 ans,F,2,1696,0.12,193617.0,1.033
+2022,Nouvelle-Aquitaine,45-49 ans,M,5,1696,0.29,190053.0,2.6308
+2022,Auvergne-Rhône-Alpes,55-59 ans,M,4,1696,0.24,259286.0,1.5427
+2022,Grand Est,35-39 ans,F,3,1696,0.18,174270.0,1.7215
+2023,Grand Est,20-24 ans,Non renseigné,1,1150,0.09,,
+2022,Normandie,35-39 ans,F,1,1696,0.06,100758.0,0.9925
+2022,Auvergne-Rhône-Alpes,50-54 ans,Non renseigné,6,1696,0.35,,
+2023,Provence-Alpes-Côte d'Azur,30-34 ans,Non renseigné,6,1150,0.52,,
+2022,Centre-Val de Loire,45-49 ans,M,1,1696,0.06,79855.0,1.2523
+2022,Hauts-de-France,55-59 ans,M,1,1696,0.06,185906.0,0.5379
+2025,Provence-Alpes-Côte d'Azur,50-54 ans,F,2,951,0.21,,
+2022,Pays de la Loire,50-54 ans,M,2,1696,0.12,125566.0,1.5928
+2023,Grand Est,55-59 ans,Non renseigné,1,1150,0.09,,
+2025,Normandie,45-49 ans,Non renseigné,1,951,0.11,,
+2025,Bretagne,40-44 ans,F,1,951,0.11,,
+2023,Provence-Alpes-Côte d'Azur,35-39 ans,Non renseigné,2,1150,0.17,,
+2025,Occitanie,45-49 ans,F,3,951,0.32,,
+2022,Centre-Val de Loire,25-29 ans,Non renseigné,2,1696,0.12,,
+2024,Auvergne-Rhône-Alpes,30-34 ans,F,1,850,0.12,,
+2024,Bourgogne-Franche-Comté,35-39 ans,M,2,850,0.24,,
+2024,Hauts-de-France,55-59 ans,M,3,850,0.35,,
+2025,Occitanie,30-34 ans,M,7,951,0.74,,
+2025,Bourgogne-Franche-Comté,25-29 ans,F,1,951,0.11,,
+2022,Auvergne-Rhône-Alpes,55-59 ans,F,1,1696,0.06,267832.0,0.3734
+2022,DROM,40-44 ans,F,2,1696,0.12,,
+2022,Bretagne,35-39 ans,F,1,1696,0.06,99469.0,1.0053
+2024,Provence-Alpes-Côte d'Azur,25-29 ans,M,3,850,0.35,,
+2024,Grand Est,55-59 ans,M,1,850,0.12,,
+2023,Provence-Alpes-Côte d'Azur,45-49 ans,Non renseigné,1,1150,0.09,,
+2023,Nouvelle-Aquitaine,35-39 ans,M,2,1150,0.17,168817.0,1.1847
+2023,Pays de la Loire,30-34 ans,Non renseigné,3,1150,0.26,,
+2023,Grand Est,50-54 ans,Non renseigné,1,1150,0.09,,
+2022,Nouvelle-Aquitaine,60 ans ou plus,Non renseigné,2,1696,0.12,,
+2022,Provence-Alpes-Côte d'Azur,45-49 ans,F,1,1696,0.06,162882.0,0.6139
+2024,Centre-Val de Loire,50-54 ans,M,1,850,0.12,,
+2022,Grand Est,45-49 ans,F,1,1696,0.06,175669.0,0.5693
+2022,DROM,30-34 ans,Non renseigné,1,1696,0.06,,
+2023,Nouvelle-Aquitaine,35-39 ans,Non renseigné,3,1150,0.26,,
+2022,Bourgogne-Franche-Comté,40-44 ans,F,1,1696,0.06,82881.0,1.2065
+2025,Provence-Alpes-Côte d'Azur,35-39 ans,Non renseigné,2,951,0.21,,
+2024,Auvergne-Rhône-Alpes,35-39 ans,F,2,850,0.24,,
+2023,Centre-Val de Loire,25-29 ans,Non renseigné,2,1150,0.17,,
+2024,Hauts-de-France,50-54 ans,Non renseigné,1,850,0.12,,
+2024,Auvergne-Rhône-Alpes,40-44 ans,F,1,850,0.12,,
+2024,Provence-Alpes-Côte d'Azur,30-34 ans,Non renseigné,1,850,0.12,,
+2025,Centre-Val de Loire,50-54 ans,M,1,951,0.11,,
+2023,Île-de-France,25-29 ans,F,25,1150,2.17,425958.0,5.8691
+2022,Pays de la Loire,50-54 ans,Non renseigné,4,1696,0.24,,
+2025,Bretagne,35-39 ans,M,4,951,0.42,,
+2023,Nouvelle-Aquitaine,50-54 ans,Non renseigné,3,1150,0.26,,
+2022,Hauts-de-France,45-49 ans,M,4,1696,0.24,189420.0,2.1117
+2025,Île-de-France,20-24 ans,M,27,951,2.84,,
+2023,Pays de la Loire,40-44 ans,F,1,1150,0.09,124952.0,0.8003
+2023,Île-de-France,45-49 ans,M,20,1150,1.74,402621.0,4.9675
+2023,Auvergne-Rhône-Alpes,40-44 ans,M,7,1150,0.61,256829.0,2.7255
+2024,Occitanie,45-49 ans,M,2,850,0.24,,
+2023,Île-de-France,30-34 ans,M,66,1150,5.74,433347.0,15.2303
+2024,Occitanie,40-44 ans,M,4,850,0.47,,
+2023,Île-de-France,40-44 ans,M,35,1150,3.04,410313.0,8.5301
+2022,Île-de-France,30-34 ans,M,69,1696,4.07,433274.0,15.9253
+2022,Grand Est,30-34 ans,M,10,1696,0.59,165134.0,6.0557
+2023,Île-de-France,30-34 ans,F,52,1150,4.52,461001.0,11.2798
+2022,Auvergne-Rhône-Alpes,45-49 ans,M,10,1696,0.59,260383.0,3.8405
+2025,Île-de-France,25-29 ans,F,34,951,3.58,,
+2025,Provence-Alpes-Côte d'Azur,45-49 ans,M,5,951,0.53,,
+2024,Pays de la Loire,25-29 ans,Non renseigné,3,850,0.35,,
+2022,Hauts-de-France,25-29 ans,Non renseigné,8,1696,0.47,,
+2022,Île-de-France,35-39 ans,F,31,1696,1.83,448949.0,6.905
+2024,Île-de-France,25-29 ans,F,33,850,3.88,,
+2025,Bretagne,45-49 ans,F,3,951,0.32,,
+2022,Hauts-de-France,30-34 ans,Non renseigné,10,1696,0.59,,
+2024,Grand Est,25-29 ans,M,10,850,1.18,,
+2024,Centre-Val de Loire,55-59 ans,M,1,850,0.12,,
+2025,Île-de-France,30-34 ans,M,50,951,5.26,,
+2025,Nouvelle-Aquitaine,30-34 ans,F,5,951,0.53,,
+2022,Occitanie,20-24 ans,M,2,1696,0.12,174985.0,1.143
+2022,Île-de-France,45-49 ans,F,16,1696,0.94,413851.0,3.8661
+2025,Occitanie,25-29 ans,F,6,951,0.63,,
+2024,Île-de-France,50-54 ans,F,2,850,0.24,,
+2023,Occitanie,30-34 ans,Non renseigné,6,1150,0.52,,
+2024,Hauts-de-France,20-24 ans,M,8,850,0.94,,
+2022,Bretagne,40-44 ans,Non renseigné,3,1696,0.18,,
+2023,Île-de-France,55-59 ans,M,9,1150,0.78,368576.0,2.4418
+2025,Île-de-France,50-54 ans,M,10,951,1.05,,
+2025,Hauts-de-France,30-34 ans,M,12,951,1.26,,
+2024,Occitanie,40-44 ans,F,3,850,0.35,,
+2022,Pays de la Loire,30-34 ans,Non renseigné,7,1696,0.41,,
+2025,Île-de-France,25-29 ans,Non renseigné,8,951,0.84,,
+2024,Provence-Alpes-Côte d'Azur,35-39 ans,M,9,850,1.06,,
+2022,Nouvelle-Aquitaine,30-34 ans,Non renseigné,8,1696,0.47,,
+2024,Grand Est,50-54 ans,F,1,850,0.12,,
+2023,Centre-Val de Loire,30-34 ans,Non renseigné,2,1150,0.17,,
+2022,Nouvelle-Aquitaine,40-44 ans,Non renseigné,7,1696,0.41,,
+2025,Bretagne,30-34 ans,F,4,951,0.42,,
+2023,Provence-Alpes-Côte d'Azur,25-29 ans,Non renseigné,5,1150,0.43,,
+2025,Grand Est,25-29 ans,M,7,951,0.74,,
+2025,Auvergne-Rhône-Alpes,25-29 ans,F,5,951,0.53,,
+2023,Grand Est,25-29 ans,Non renseigné,4,1150,0.35,,
+2025,Nouvelle-Aquitaine,50-54 ans,F,2,951,0.21,,
+2023,Nouvelle-Aquitaine,20-24 ans,Non renseigné,1,1150,0.09,,
+2022,Occitanie,45-49 ans,M,3,1696,0.18,184643.0,1.6248
+2022,Auvergne-Rhône-Alpes,35-39 ans,F,6,1696,0.35,262378.0,2.2868
+2024,Bourgogne-Franche-Comté,30-34 ans,M,4,850,0.47,,
+2022,Normandie,35-39 ans,M,3,1696,0.18,96799.0,3.0992
+2022,Grand Est,55-59 ans,M,3,1696,0.18,187751.0,1.5979
+2025,Nouvelle-Aquitaine,35-39 ans,Non renseigné,1,951,0.11,,
+2022,Nouvelle-Aquitaine,40-44 ans,F,7,1696,0.41,187084.0,3.7416
+2024,Bourgogne-Franche-Comté,40-44 ans,F,1,850,0.12,,
+2025,Pays de la Loire,30-34 ans,Non renseigné,1,951,0.11,,
+2023,Occitanie,25-29 ans,Non renseigné,8,1150,0.7,,
+2022,Normandie,25-29 ans,Non renseigné,4,1696,0.24,,
+2023,Centre-Val de Loire,60 ans ou plus,M,1,1150,0.09,1596613.0,0.0626
+2024,Bourgogne-Franche-Comté,20-24 ans,M,4,850,0.47,,
+2022,Occitanie,45-49 ans,Non renseigné,4,1696,0.24,,
+2023,Nouvelle-Aquitaine,30-34 ans,M,9,1150,0.78,159057.0,5.6583
+2022,Hauts-de-France,20-24 ans,Non renseigné,1,1696,0.06,,
+2024,Nouvelle-Aquitaine,30-34 ans,F,3,850,0.35,,
+2025,Pays de la Loire,25-29 ans,M,3,951,0.32,,
+2024,Hauts-de-France,30-34 ans,M,6,850,0.71,,
+2024,Provence-Alpes-Côte d'Azur,45-49 ans,M,3,850,0.35,,
+2022,Nouvelle-Aquitaine,50-54 ans,F,2,1696,0.12,208083.0,0.9612
+2023,Grand Est,25-29 ans,M,6,1150,0.52,154220.0,3.8905
+2022,Provence-Alpes-Côte d'Azur,25-29 ans,M,4,1696,0.24,126941.0,3.1511
+2025,Normandie,30-34 ans,M,4,951,0.42,,
+2025,Centre-Val de Loire,30-34 ans,M,2,951,0.21,,
+2023,Hauts-de-France,45-49 ans,M,2,1150,0.17,184115.0,1.0863
+2024,Grand Est,45-49 ans,M,6,850,0.71,,
+2024,Normandie,40-44 ans,M,2,850,0.24,,
+2022,Hauts-de-France,35-39 ans,M,5,1696,0.29,185157.0,2.7004
+2022,Normandie,30-34 ans,M,6,1696,0.35,92068.0,6.5169
+2025,Pays de la Loire,20-24 ans,M,1,951,0.11,,
+2022,Bourgogne-Franche-Comté,50-54 ans,M,3,1696,0.18,92904.0,3.2291
+2022,Auvergne-Rhône-Alpes,25-29 ans,F,4,1696,0.24,223233.0,1.7919
+2025,Provence-Alpes-Côte d'Azur,40-44 ans,M,5,951,0.53,,
+2025,Hauts-de-France,30-34 ans,F,2,951,0.21,,
+2022,Provence-Alpes-Côte d'Azur,45-49 ans,M,4,1696,0.24,154923.0,2.5819
+2022,Nouvelle-Aquitaine,55-59 ans,F,1,1696,0.06,212713.0,0.4701
+2025,Bourgogne-Franche-Comté,25-29 ans,M,2,951,0.21,,
+2023,Nouvelle-Aquitaine,45-49 ans,F,3,1150,0.26,191370.0,1.5676
+2024,Nouvelle-Aquitaine,45-49 ans,M,2,850,0.24,,
+2024,Provence-Alpes-Côte d'Azur,55-59 ans,M,2,850,0.24,,
+2023,Provence-Alpes-Côte d'Azur,60 ans ou plus,M,1,1150,0.09,3159232.0,0.0317
+2022,Nouvelle-Aquitaine,45-49 ans,F,4,1696,0.24,197217.0,2.0282
+2022,Provence-Alpes-Côte d'Azur,60 ans ou plus,Non renseigné,1,1696,0.06,,
+2024,Bretagne,25-29 ans,F,2,850,0.24,,
+2025,DROM,40-44 ans,M,3,951,0.32,,
+2022,Grand Est,40-44 ans,F,2,1696,0.12,172538.0,1.1592
+2024,Hauts-de-France,25-29 ans,F,1,850,0.12,,
+2024,Centre-Val de Loire,35-39 ans,F,1,850,0.12,,
+2025,Hauts-de-France,40-44 ans,F,2,951,0.21,,
+2023,Grand Est,35-39 ans,F,2,1150,0.17,173030.0,1.1559
+2023,Hauts-de-France,45-49 ans,Non renseigné,1,1150,0.09,,
+2022,Bretagne,50-54 ans,Non renseigné,1,1696,0.06,,
+2024,DROM,40-44 ans,F,1,850,0.12,,
+2025,Centre-Val de Loire,45-49 ans,M,2,951,0.21,,
+2025,Nouvelle-Aquitaine,25-29 ans,Non renseigné,2,951,0.21,,
+2025,Occitanie,20-24 ans,F,1,951,0.11,,
+2024,Bretagne,20-24 ans,F,1,850,0.12,,
+2025,Bourgogne-Franche-Comté,35-39 ans,F,2,951,0.21,,
+2025,DROM,25-29 ans,Non renseigné,1,951,0.11,,
+2025,Grand Est,45-49 ans,Non renseigné,1,951,0.11,,
+2023,Normandie,40-44 ans,M,2,1150,0.17,99175.0,2.0166
+2024,Provence-Alpes-Côte d'Azur,35-39 ans,F,1,850,0.12,,
+2024,Bourgogne-Franche-Comté,40-44 ans,M,1,850,0.12,,
+2024,Bretagne,45-49 ans,M,1,850,0.12,,
+2024,Pays de la Loire,45-49 ans,M,1,850,0.12,,
+2023,Provence-Alpes-Côte d'Azur,25-29 ans,F,2,1150,0.17,130512.0,1.5324
+2024,Grand Est,35-39 ans,Non renseigné,3,850,0.35,,
+2022,Pays de la Loire,40-44 ans,F,3,1696,0.18,122512.0,2.4487
+2024,Île-de-France,50-54 ans,M,10,850,1.18,,
+2025,Île-de-France,35-39 ans,F,35,951,3.68,,
+2022,Bretagne,45-49 ans,F,1,1696,0.06,109122.0,0.9164
+2025,Île-de-France,35-39 ans,Non renseigné,8,951,0.84,,
+2022,Auvergne-Rhône-Alpes,60 ans ou plus,F,1,1696,0.06,5392352.0,0.0185
+2023,Île-de-France,35-39 ans,Non renseigné,37,1150,3.22,,
+2022,Île-de-France,25-29 ans,M,41,1696,2.42,405623.0,10.1079
+2024,Grand Est,45-49 ans,Non renseigné,3,850,0.35,,
+2022,Provence-Alpes-Côte d'Azur,35-39 ans,M,8,1696,0.47,146665.0,5.4546
+2025,Hauts-de-France,25-29 ans,M,11,951,1.16,,
+2022,Île-de-France,40-44 ans,M,47,1696,2.77,410374.0,11.453
+2022,Île-de-France,20-24 ans,F,5,1696,0.29,404601.0,1.2358
+2025,Nouvelle-Aquitaine,40-44 ans,F,4,951,0.42,,
+2023,Hauts-de-France,55-59 ans,M,1,1150,0.09,185099.0,0.5403
+2025,Auvergne-Rhône-Alpes,25-29 ans,M,18,951,1.89,,
+2023,Bourgogne-Franche-Comté,30-34 ans,M,2,1150,0.17,74377.0,2.689
+2023,Pays de la Loire,25-29 ans,M,3,1150,0.26,102135.0,2.9373
+2023,Centre-Val de Loire,20-24 ans,M,2,1150,0.17,69689.0,2.8699
+2025,Bourgogne-Franche-Comté,55-59 ans,M,1,951,0.11,,
+2023,Hauts-de-France,25-29 ans,Non renseigné,2,1150,0.17,,
+2022,Île-de-France,35-39 ans,Non renseigné,69,1696,4.07,,
+2024,DROM,30-34 ans,M,2,850,0.24,,
+2023,Hauts-de-France,40-44 ans,M,4,1150,0.35,187291.0,2.1357
+2024,Nouvelle-Aquitaine,30-34 ans,M,11,850,1.29,,
+2022,Normandie,35-39 ans,Non renseigné,3,1696,0.18,,
+2022,Île-de-France,50-54 ans,Non renseigné,24,1696,1.42,,
+2022,Auvergne-Rhône-Alpes,45-49 ans,F,3,1696,0.18,261325.0,1.148
+2022,Île-de-France,55-59 ans,M,15,1696,0.88,368496.0,4.0706
+2023,Hauts-de-France,50-54 ans,Non renseigné,3,1150,0.26,,
+2022,DROM,45-49 ans,F,1,1696,0.06,,
+2023,Occitanie,30-34 ans,M,7,1150,0.61,166825.0,4.196
+2022,DROM,50-54 ans,M,2,1696,0.12,,
+2024,Hauts-de-France,50-54 ans,M,3,850,0.35,,
+2024,DROM,45-49 ans,F,1,850,0.12,,
+2023,Centre-Val de Loire,45-49 ans,Non renseigné,1,1150,0.09,,
+2022,Pays de la Loire,35-39 ans,M,7,1696,0.41,115334.0,6.0693
+2024,Provence-Alpes-Côte d'Azur,40-44 ans,F,2,850,0.24,,
+2024,Occitanie,35-39 ans,F,3,850,0.35,,
+2023,Grand Est,45-49 ans,Non renseigné,2,1150,0.17,,
+2023,Pays de la Loire,25-29 ans,F,1,1150,0.09,100014.0,0.9999
+2025,Grand Est,20-24 ans,M,3,951,0.32,,
+2022,Grand Est,55-59 ans,F,1,1696,0.06,195067.0,0.5126
+2023,Provence-Alpes-Côte d'Azur,40-44 ans,F,2,1150,0.17,165230.0,1.2104
+2025,Hauts-de-France,55-59 ans,F,2,951,0.21,,
+2025,Bretagne,40-44 ans,M,4,951,0.42,,
+2022,Bretagne,30-34 ans,F,4,1696,0.24,90458.0,4.4219
+2025,Normandie,35-39 ans,M,2,951,0.21,,
+2022,Occitanie,40-44 ans,F,5,1696,0.29,189263.0,2.6418
+2023,Auvergne-Rhône-Alpes,40-44 ans,Non renseigné,7,1150,0.61,,
+2025,DROM,45-49 ans,F,1,951,0.11,,
+2023,Île-de-France,55-59 ans,F,2,1150,0.17,391690.0,0.5106
+2023,Normandie,35-39 ans,M,1,1150,0.09,95612.0,1.0459
+2023,Provence-Alpes-Côte d'Azur,55-59 ans,Non renseigné,1,1150,0.09,,
+2025,Grand Est,50-54 ans,Non renseigné,2,951,0.21,,
+2022,Grand Est,25-29 ans,M,6,1696,0.35,154817.0,3.8755
+2024,Bourgogne-Franche-Comté,25-29 ans,M,3,850,0.35,,
+2023,Auvergne-Rhône-Alpes,30-34 ans,Non renseigné,8,1150,0.7,,
+2023,Hauts-de-France,20-24 ans,F,1,1150,0.09,183597.0,0.5447
+2023,Normandie,35-39 ans,F,2,1150,0.17,99944.0,2.0011
+2023,DROM,35-39 ans,Non renseigné,1,1150,0.09,,
+2024,Nouvelle-Aquitaine,40-44 ans,F,4,850,0.47,,
+2024,Grand Est,20-24 ans,M,4,850,0.47,,
+2022,Normandie,30-34 ans,Non renseigné,5,1696,0.29,,
+2023,Bourgogne-Franche-Comté,30-34 ans,F,2,1150,0.17,73157.0,2.7338
+2025,Pays de la Loire,45-49 ans,F,3,951,0.32,,
+2025,Auvergne-Rhône-Alpes,50-54 ans,F,2,951,0.21,,
+2022,Provence-Alpes-Côte d'Azur,40-44 ans,M,6,1696,0.35,151410.0,3.9628
+2022,Centre-Val de Loire,40-44 ans,M,5,1696,0.29,74453.0,6.7156
+2022,Centre-Val de Loire,25-29 ans,M,1,1696,0.06,62811.0,1.5921
+2022,Centre-Val de Loire,30-34 ans,M,3,1696,0.18,69268.0,4.331
+2025,Auvergne-Rhône-Alpes,35-39 ans,F,4,951,0.42,,
+2023,DROM,35-39 ans,F,1,1150,0.09,,
+2024,Occitanie,40-44 ans,Non renseigné,1,850,0.12,,
+2023,Provence-Alpes-Côte d'Azur,60 ans ou plus,Non renseigné,1,1150,0.09,,
+2025,Provence-Alpes-Côte d'Azur,20-24 ans,F,2,951,0.21,,
+2025,Auvergne-Rhône-Alpes,45-49 ans,F,1,951,0.11,,
+2024,Occitanie,30-34 ans,Non renseigné,1,850,0.12,,
+2024,Normandie,30-34 ans,Non renseigné,1,850,0.12,,
+2025,Grand Est,40-44 ans,F,1,951,0.11,,
+2023,Occitanie,35-39 ans,M,2,1150,0.17,172864.0,1.157
+2025,Occitanie,40-44 ans,M,2,951,0.21,,
+2022,DROM,30-34 ans,M,3,1696,0.18,,
+2024,Île-de-France,55-59 ans,F,1,850,0.12,,
+2025,Bretagne,20-24 ans,M,3,951,0.32,,
+2024,Hauts-de-France,35-39 ans,F,2,850,0.24,,
+2023,Bretagne,55-59 ans,M,1,1150,0.09,111240.0,0.899
+2025,Nouvelle-Aquitaine,40-44 ans,M,1,951,0.11,,
+2024,DROM,45-49 ans,M,2,850,0.24,,
+2025,Île-de-France,55-59 ans,F,1,951,0.11,,
+2024,Hauts-de-France,45-49 ans,Non renseigné,1,850,0.12,,
+2023,DROM,20-24 ans,Non renseigné,1,1150,0.09,,
+2022,Occitanie,25-29 ans,F,1,1696,0.06,157947.0,0.6331
+2025,Pays de la Loire,50-54 ans,M,1,951,0.11,,
+2022,Occitanie,60 ans ou plus,Non renseigné,2,1696,0.12,,
+2024,Auvergne-Rhône-Alpes,50-54 ans,Non renseigné,1,850,0.12,,
+2024,Bretagne,55-59 ans,M,1,850,0.12,,
+2023,DROM,50-54 ans,M,1,1150,0.09,,
+2023,Auvergne-Rhône-Alpes,50-54 ans,Non renseigné,2,1150,0.17,,
+2023,Bretagne,50-54 ans,M,1,1150,0.09,115090.0,0.8689
+2025,Bretagne,60 ans ou plus,Non renseigné,1,951,0.11,,
+2022,Île-de-France,25-29 ans,Non renseigné,62,1696,3.66,,
+2024,Grand Est,50-54 ans,M,1,850,0.12,,
+2022,Bourgogne-Franche-Comté,30-34 ans,M,6,1696,0.35,74576.0,8.0455
+2025,Occitanie,25-29 ans,M,12,951,1.26,,
+2025,Grand Est,35-39 ans,F,4,951,0.42,,
+2025,Auvergne-Rhône-Alpes,40-44 ans,Non renseigné,1,951,0.11,,
+2025,Île-de-France,25-29 ans,M,51,951,5.36,,
+2023,Île-de-France,35-39 ans,M,46,1150,4.0,413429.0,11.1265
+2024,Nouvelle-Aquitaine,25-29 ans,M,13,850,1.53,,
+2022,Occitanie,35-39 ans,M,12,1696,0.71,173353.0,6.9223
+2023,Provence-Alpes-Côte d'Azur,30-34 ans,M,12,1150,1.04,140442.0,8.5445
+2025,Centre-Val de Loire,25-29 ans,M,6,951,0.63,,
+2023,Hauts-de-France,30-34 ans,M,9,1150,0.78,174892.0,5.146
+2022,Nouvelle-Aquitaine,35-39 ans,M,11,1696,0.65,169282.0,6.498
+2024,Pays de la Loire,50-54 ans,F,1,850,0.12,,
+2022,Nouvelle-Aquitaine,50-54 ans,Non renseigné,5,1696,0.29,,
+2022,Île-de-France,30-34 ans,F,37,1696,2.18,464175.0,7.9711
+2023,Bourgogne-Franche-Comté,25-29 ans,M,4,1150,0.35,69836.0,5.7277
+2024,Auvergne-Rhône-Alpes,30-34 ans,M,12,850,1.41,,
+2024,Normandie,35-39 ans,Non renseigné,2,850,0.24,,
+2023,Grand Est,30-34 ans,M,10,1150,0.87,163690.0,6.1091
+2023,Pays de la Loire,55-59 ans,F,1,1150,0.09,124747.0,0.8016
+2024,Bretagne,30-34 ans,M,4,850,0.47,,
+2022,Centre-Val de Loire,35-39 ans,Non renseigné,5,1696,0.29,,
+2023,Normandie,30-34 ans,F,2,1150,0.17,92082.0,2.172
+2024,Pays de la Loire,25-29 ans,M,4,850,0.47,,
+2022,Île-de-France,60 ans ou plus,Non renseigné,11,1696,0.65,,
+2023,Auvergne-Rhône-Alpes,30-34 ans,M,9,1150,0.78,242741.0,3.7077
+2025,DROM,35-39 ans,M,2,951,0.21,,
+2022,Occitanie,40-44 ans,Non renseigné,7,1696,0.41,,
+2025,Occitanie,55-59 ans,M,4,951,0.42,,
+2022,Grand Est,55-59 ans,Non renseigné,2,1696,0.12,,
+2025,Île-de-France,30-34 ans,Non renseigné,7,951,0.74,,
+2022,Auvergne-Rhône-Alpes,40-44 ans,F,5,1696,0.29,263118.0,1.9003
+2024,Pays de la Loire,30-34 ans,M,3,850,0.35,,
+2023,Grand Est,30-34 ans,Non renseigné,4,1150,0.35,,
+2022,Pays de la Loire,25-29 ans,F,2,1696,0.12,99107.0,2.018
+2022,Pays de la Loire,35-39 ans,Non renseigné,6,1696,0.35,,
+2023,Normandie,35-39 ans,Non renseigné,4,1150,0.35,,
+2025,DROM,30-34 ans,M,3,951,0.32,,
+2025,Provence-Alpes-Côte d'Azur,40-44 ans,F,5,951,0.53,,
+2023,Hauts-de-France,30-34 ans,Non renseigné,5,1150,0.43,,
+2022,Île-de-France,20-24 ans,Non renseigné,4,1696,0.24,,
+2025,Île-de-France,20-24 ans,F,6,951,0.63,,
+2025,Auvergne-Rhône-Alpes,55-59 ans,F,2,951,0.21,,
+2023,Auvergne-Rhône-Alpes,40-44 ans,F,2,1150,0.17,268247.0,0.7456
+2022,Pays de la Loire,25-29 ans,Non renseigné,4,1696,0.24,,
+2025,Auvergne-Rhône-Alpes,40-44 ans,F,2,951,0.21,,
+2023,Bretagne,40-44 ans,Non renseigné,4,1150,0.35,,
+2023,Provence-Alpes-Côte d'Azur,35-39 ans,M,5,1150,0.43,146285.0,3.418
+2025,Pays de la Loire,45-49 ans,M,3,951,0.32,,
+2023,Auvergne-Rhône-Alpes,60 ans ou plus,M,1,1150,0.09,4972183.0,0.0201
+2022,DROM,45-49 ans,M,2,1696,0.12,,
+2022,Bourgogne-Franche-Comté,25-29 ans,M,4,1696,0.24,70167.0,5.7007
+2023,Bretagne,35-39 ans,F,1,1150,0.09,98866.0,1.0115
+2024,Île-de-France,35-39 ans,Non renseigné,11,850,1.29,,
+2024,Bretagne,25-29 ans,M,3,850,0.35,,
+2023,Provence-Alpes-Côte d'Azur,20-24 ans,M,2,1150,0.17,139763.0,1.431
+2022,Grand Est,50-54 ans,Non renseigné,2,1696,0.12,,
+2023,Nouvelle-Aquitaine,45-49 ans,M,4,1150,0.35,184158.0,2.172
+2022,Auvergne-Rhône-Alpes,60 ans ou plus,Non renseigné,1,1696,0.06,,
+2025,Bourgogne-Franche-Comté,30-34 ans,M,4,951,0.42,,
+2023,Hauts-de-France,35-39 ans,F,3,1150,0.26,191708.0,1.5649
+2022,Normandie,45-49 ans,F,1,1696,0.06,103327.0,0.9678
+2025,Provence-Alpes-Côte d'Azur,35-39 ans,F,2,951,0.21,,
+2025,Nouvelle-Aquitaine,55-59 ans,F,1,951,0.11,,
+2024,Provence-Alpes-Côte d'Azur,30-34 ans,M,9,850,1.06,,
+2025,Grand Est,55-59 ans,F,1,951,0.11,,
+2022,Nouvelle-Aquitaine,55-59 ans,M,1,1696,0.06,199567.0,0.5011
+2025,Occitanie,30-34 ans,Non renseigné,1,951,0.11,,
+2025,Centre-Val de Loire,30-34 ans,F,3,951,0.32,,
+2025,Provence-Alpes-Côte d'Azur,55-59 ans,M,1,951,0.11,,
+2023,Bretagne,25-29 ans,Non renseigné,6,1150,0.52,,
+2022,Hauts-de-France,45-49 ans,Non renseigné,4,1696,0.24,,
+2024,Hauts-de-France,25-29 ans,Non renseigné,1,850,0.12,,
+2025,Pays de la Loire,35-39 ans,M,3,951,0.32,,
+2024,Provence-Alpes-Côte d'Azur,25-29 ans,Non renseigné,1,850,0.12,,
+2023,Occitanie,25-29 ans,M,3,1150,0.26,161642.0,1.856
+2024,Hauts-de-France,45-49 ans,M,5,850,0.59,,
+2024,Bretagne,25-29 ans,Non renseigné,1,850,0.12,,
+2023,Auvergne-Rhône-Alpes,25-29 ans,F,2,1150,0.17,221592.0,0.9026
+2023,DROM,40-44 ans,F,1,1150,0.09,,
+2023,Île-de-France,50-54 ans,F,4,1150,0.35,408124.0,0.9801
+2025,Centre-Val de Loire,35-39 ans,F,1,951,0.11,,
+2023,Centre-Val de Loire,55-59 ans,M,1,1150,0.09,84264.0,1.1867
+2023,Pays de la Loire,45-49 ans,F,1,1150,0.09,121771.0,0.8212
+2023,Normandie,50-54 ans,Non renseigné,1,1150,0.09,,
+2025,Île-de-France,60 ans ou plus,M,3,951,0.32,,
+2025,Pays de la Loire,25-29 ans,F,1,951,0.11,,
+2025,Provence-Alpes-Côte d'Azur,25-29 ans,Non renseigné,1,951,0.11,,
+2025,Hauts-de-France,50-54 ans,Non renseigné,1,951,0.11,,
+2022,Hauts-de-France,55-59 ans,Non renseigné,2,1696,0.12,,
+2023,Bourgogne-Franche-Comté,45-49 ans,M,1,1150,0.09,82626.0,1.2103
+2024,Grand Est,25-29 ans,F,2,850,0.24,,
+2024,Hauts-de-France,40-44 ans,M,2,850,0.24,,
+2023,Occitanie,50-54 ans,F,1,1150,0.09,206824.0,0.4835
+2022,Grand Est,60 ans ou plus,M,1,1696,0.06,3406568.0,0.0294
+2022,DROM,35-39 ans,M,1,1696,0.06,,
+2023,Occitanie,40-44 ans,F,1,1150,0.09,192540.0,0.5194
+2024,Auvergne-Rhône-Alpes,55-59 ans,Non renseigné,1,850,0.12,,
+2023,Grand Est,35-39 ans,Non renseigné,2,1150,0.17,,
+2024,Normandie,35-39 ans,M,2,850,0.24,,
+2023,Hauts-de-France,60 ans ou plus,M,1,1150,0.09,3567064.0,0.028
+2022,Normandie,50-54 ans,F,1,1696,0.06,109023.0,0.9172
+2025,DROM,30-34 ans,F,1,951,0.11,,
+2025,Occitanie,45-49 ans,Non renseigné,1,951,0.11,,
+2023,Auvergne-Rhône-Alpes,50-54 ans,M,1,1150,0.09,271548.0,0.3683

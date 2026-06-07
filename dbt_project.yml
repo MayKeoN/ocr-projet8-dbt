@@ -25,7 +25,7 @@ models:
       +tags: ["staging"]
     intermediate:
       +materialized: view
-      +schema: staging
+      +schema: intermediate
       +tags: ["intermediate"]
     marts:
       +materialized: table

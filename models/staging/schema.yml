@@ -9,7 +9,6 @@ models:
       - name: user_id
         description: Identifiant pseudonymisé unique
         tests:
-          - unique
           - not_null
       - name: path_category_name
         description: Filtre Data appliqué dans stg_students.sql
