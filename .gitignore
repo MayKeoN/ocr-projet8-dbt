@@ -1,6 +1,7 @@
 target/
 dbt_packages/
 logs/
+data/
 .env
 profiles.yml
 *.user.yml

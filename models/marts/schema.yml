@@ -24,3 +24,22 @@ models:
         tests:
           - unique
           - not_null
+  - name: mart_insee_context
+    description: >
+      Mart contextuel — jointure entre les données étudiants agrégées et la
+      population INSEE par région, groupe d'âge et genre. Permet de calculer
+      le taux d'inscription pour 100 000 habitants sur 2022-2023.
+    columns:
+      - name: year_path_started
+        tests:
+          - not_null
+      - name: region
+        tests:
+          - not_null
+      - name: student_count
+        tests:
+          - not_null
+      - name: regional_population
+        description: Population INSEE correspondante (peut être NULL si pas de correspondance)
+      - name: students_per_100k_inhabitants
+        description: Taux d'inscription pour 100 000 habitants

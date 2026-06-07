@@ -29,3 +29,29 @@ models:
         description: Années 2022-2025 filtrées dans stg_students.sql
         tests:
           - not_null
+  - name: stg_insee_population
+    description: >
+      Population française par région, groupe d'âge et genre — source INSEE
+      (Estimations de population, séries par région, sexe et âge quinquennal).
+      Données provisoires pour 2021-2023, révisées annuellement.
+    columns:
+      - name: year
+        description: Année de l'estimation au 1er janvier
+        tests:
+          - not_null
+      - name: region
+        description: Région française (nom officiel)
+        tests:
+          - not_null
+      - name: age_group
+        description: Groupe d'âge quinquennal
+        tests:
+          - not_null
+      - name: gender
+        description: Genre (Hommes / Femmes)
+        tests:
+          - not_null
+      - name: population
+        description: Nombre d'habitants estimés
+        tests:
+          - not_null
