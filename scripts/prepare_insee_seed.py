@@ -1,19 +1,3 @@
-"""
-prepare_insee_seed.py
----------------------
-Reads the official INSEE XLS file (estimations de population par département,
-sexe et âge quinquennal) and produces a clean seeds/insee_population.csv
-ready for dbt to load into Snowflake.
-
-Usage:
-    python scripts/prepare_insee_seed.py
-    python scripts/prepare_insee_seed.py --years 2022 2023 2024
-    python scripts/prepare_insee_seed.py --input path/to/custom.xls --years 2023
-
-Place the raw INSEE XLS file at: data/estim-pop-dep-sexe-aq.xls
-Output goes to: seeds/insee_population.csv
-"""
-
 import argparse
 import csv
 import os
@@ -25,6 +9,26 @@ try:
 except ImportError:
     print("ERROR: xlrd not installed. Run: pip install xlrd")
     sys.exit(1)
+
+"""
+prepare_insee_seed.py
+---------------------
+Converts the raw INSEE XLS population estimates into a clean dbt seed file.
+
+Input : data/estim-pop-dep-sexe-aq.xls  (in .gitignore)
+Output: seeds/insee_population.csv
+
+Steps:
+  1. Load INSEE XLS (estimations par département, sexe, âge quinquennal)
+  2. Filter to metropolitan French regions matching OCR student regions
+  3. Aggregate from département to région level
+  4. Pivot to long format: one row per year x region x age_group x gender
+  5. Filter to years 2022-2023 (available and relevant)
+  6. Write to seeds/insee_population.csv
+
+Run before dbtf seed when the INSEE source file has been updated.
+Source: https://www.insee.fr/fr/statistiques/1893198
+"""
 
 # ---------------------------------------------------------------------------
 # Department → Region mapping (current French regions as of 2016 reform)

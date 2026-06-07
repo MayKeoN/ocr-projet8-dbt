@@ -1,3 +1,7 @@
+-- Staging: nettoyage et déduplication des inscriptions OCR Data (2022-2025)
+-- RGPD: USER_ID est pseudonymisé. Aucune donnée nominative présente.
+-- Données longitudinales conservées: un étudiant peut apparaître sur plusieurs années.
+
 with source as (
     select * from {{ source('ocr_raw', 'students_raw') }}
 ),
@@ -18,7 +22,7 @@ cleaned as (
         user_id,
         path_category_name,
         age_group,
-        coalesce(gender_raw, 'Non renseigné') as gender,
+        coalesce(gender_raw, 'Non renseigné') as gender,  -- Genre: remplace les valeurs vides par 'Non renseigné' (RGPD: pas d'imputation)
         gender_raw is not null as has_gender_reported,
         region,
         year_path_started,
@@ -31,6 +35,8 @@ cleaned as (
 deduped as (
     select
         *,
+        -- Déduplication par user_id × année: supprime les vrais doublons (même étudiant, même année)
+        -- Un étudiant inscrit sur plusieurs années conserve une ligne par année (données longitudinales)
         row_number() over (
             partition by user_id, year_path_started
             order by user_id
